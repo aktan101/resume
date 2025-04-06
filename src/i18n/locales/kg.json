@@ -1,0 +1,108 @@
+{
+  "header": {
+    "home": "Башкы",
+    "about": "Мен жөнүндө",
+    "experience": "Тажрыйба",
+    "skills": "Көндүмдөр",
+    "certificates": "Сертификаттар",
+    "contact": "Байланыш"
+  },
+  "home": {
+    "greeting": "Салам, менин атым",
+    "name": "Актан",
+    "position": "Frontend Өнүктүрүүчү",
+    "description": "Мен React жана башка заманбап технологияларды колдонуп, заманбап жана сезгич веб-тиркемелерди түзөм.",
+    "downloadCV": "Резюмени жүктөп алуу",
+    "contactMe": "Мени менен байланышуу"
+  },
+  "about": {
+    "title": "Мен жөнүндө",
+    "subtitle": "Менин тажрыйбам жана көндүмдөрүм жөнүндө көбүрөөк билиңиз",
+    "description1": "Мен React, Redux жана Tailwind CSS сыяктуу заманбап технологияларды колдонуп, веб-тиркемелерди түзүү тажрыйбасы бар Frontend өнүктүрүүчүмүн.",
+    "description2": "Мен мыкты колдонуучу тажрыйбасын камсыз кылган интуитивдик жана сезгич колдонуучу интерфей��терин түзүүгө умтулам.",
+    "description3": "Мен өз көндүмдөрүмдү жакшыртуу жана веб-өнүктүрүүдөгү акыркы тенденцияларды билүү үчүн дайыма жаңы технологияларды жана методдорду үйрөнүп жатам.",
+    "education": "Билим",
+    "university": "Университеттин аты",
+    "degree": "Компьютердик илимдер боюнча бакалавр даражасы",
+    "graduationYear": "2020"
+  },
+  "experience": {
+    "title": "Тажрыйба",
+    "subtitle": "Менин кесиптик жолум",
+    "project1": {
+      "name": "Долбоор 1",
+      "position": "Frontend Өнүктүрүүчү",
+      "period": "25 Март 2025 ",
+      "description": "React, Redux жана TypeScript колдонуп веб-тиркемелерди өнүктүрүү жана колдоо. Agile методологиясын колдонуп команда менен иштөө.",
+      "achievements": [
+        "Тиркеменин өндүрүмдүүлүгүн 30% жакшырттым",
+        "Жаңы абал башкаруу системасын киргиздим",
+        "Кайра колдонуу үчүн компонент китепканасын иштеп чыктым"
+      ],
+      "technologies": "React, Redux, i18Next, Tailwind CSS, React-Router",
+      "githubLink": "https://github.com/username/project1",
+      "liveDemo": "https://project1-demo.com"
+    },
+    "project2": {
+      "name": "Долбоор 2",
+      "position": "Кенже Frontend Өнүктүрүүчү",
+      "period": "4 Ноябрь 2024",
+      "description": "HTML, CSS жана JavaScript колдонуп колдонуучу интерфейстерин өнүктүрүү. REST API менен иштөө жана үчүнчү тарап кызматтарын интеграциялоо.",
+      "achievements": [
+        "5 долбоорду өнүктүрүүгө катыштым",
+        "CSS кодун оптимизациялап, файл өлчөмдөрүн 20% азайттым",
+        "Автоматташтырылган компонент тестирлөөсүн киргиздим"
+      ],
+      "technologies": "HTML, CSS, JavaScript, REST API",
+      "githubLink": "https://github.com/username/project2",
+      "liveDemo": "https://project2-demo.com"
+    },
+    "viewProject": "Долбоорду көрүү",
+    "liveDemo": "Демо версия"
+  },
+  "skills": {
+    "title": "Көндүмдөр",
+    "subtitle": "Менин техникалык көндүмдөрүм",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Куралдар",
+    "languages": "Программалоо тилдери",
+    "other": "Башка көндүмдөр"
+  },
+  "certificates": {
+    "title": "Сертификаттар",
+    "subtitle": "Менин жетишкендиктерим жана сертификаттарым",
+    "certificate1": {
+      "name": "Front-End - Толук колдонмо",
+      "issuer": "Okurmen",
+      "date": "Март 2025",
+      "description": "Front-End боюнча кеңири курс, Hooks, Redux, React Router жана башкаларды камтыйт."
+    },
+    "certificate2": {
+      "name": "JavaScript: Өркүндөтүлгөн концепциялар",
+      "issuer": "Coursera",
+      "date": "Январь 2021",
+      "description": "JavaScript'ти терең изилдөө, асинхрондуу программалоо, жабуулар жана прототип мурастоо камтылган."
+    },
+    "certificate3": {
+      "name": "Веб-өнүктүрүү: Толук курс",
+      "issuer": "freeCodeCamp",
+      "date": "Ноябрь 2020",
+      "description": "HTML, CSS, JavaScript, React жана Node.js камтыган толук веб-өнүктүрүү курсу."
+    }
+  },
+  "contact": {
+    "title": "Байланыш",
+    "subtitle": "Мени менен байланышыңыз",
+    "name": "Аты",
+    "email": "Email",
+    "message": "Билдирүү",
+    "send": "Жөнөтүү",
+    "address": "Дарек",
+    "phone": "Телефон",
+    "emailAddress": "Email дареги",
+    "socialLinks": "Социалдык тармактар",
+    "findMe": "Мени социалдык тармактардан табыңыз"
+  }
+}
+

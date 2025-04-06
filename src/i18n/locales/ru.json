@@ -1,0 +1,108 @@
+{
+  "header": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "experience": "Опыт работы",
+    "skills": "Навыки",
+    "certificates": "Сертификаты",
+    "contact": "Контакты"
+  },
+  "home": {
+    "greeting": "Привет, меня зовут",
+    "name": "Актан",
+    "position": "Frontend Разработчик",
+    "description": "Я разрабатываю современные и отзывчивые веб-приложения с использованием React и других современных технологий.",
+    "downloadCV": "Скачать резюме",
+    "contactMe": "Связаться со мной"
+  },
+  "about": {
+    "title": "Обо мне",
+    "subtitle": "Узнайте больше о моем опыте и навыках",
+    "description1": "Я Frontend разработчик с опытом создания веб-приложений с использованием современных технологий, таких как React, Redux, и Tailwind CSS.",
+    "description2": "Я стремлюсь создавать интуитивно понятные и отзывчивые пользовательские интерфейсы, которые обеспечивают отличный пользовательский опыт.",
+    "description3": "Я постоянно изучаю новые технологии и методы, чтобы улучшать свои навыки и оставаться в курсе последних тенденций в веб-разработке.",
+    "education": "Образование",
+    "university": "Название университета",
+    "degree": "Степень бакалавра в области компьютерных наук",
+    "graduationYear": "2020"
+  },
+  "experience": {
+    "title": "Опыт работы",
+    "subtitle": "Мой профессиональный путь",
+    "project1": {
+      "name": "Проект 1",
+      "position": "Frontend Разработчик",
+      "period": "25 Март 2025",
+      "description": "Разработка и поддержка веб-приложений с использованием React, Redux и TypeScript. Работа в команде с использованием Agile методологии.",
+      "achievements": [
+        "Улучшил производительность приложения на 30%",
+        "Внедрил новую систему управления состоянием",
+        "Разработал компонентную библиотеку для повторного использования"
+      ],
+      "technologies": "React, Redux, i18Next, Tailwind CSS, React-Router",
+      "githubLink": "https://github.com/username/project1",
+      "liveDemo": "https://project1-demo.com"
+    },
+    "project2": {
+      "name": "Проект 2",
+      "position": "Младший Frontend Разработчик",
+      "period": "4 Ноябрь 2024",
+      "description": "Разработка пользовательских интерфейсов с использованием HTML, CSS и JavaScript. Работа с REST API и интеграция сторонних сервисов.",
+      "achievements": [
+        "Участвовал в разработке 5 проектов",
+        "Оптимизировал CSS код, уменьшив размер файлов на 20%",
+        "Внедрил автоматическое тестирование компонентов"
+      ],
+      "technologies": "HTML, CSS, JavaScript, REST API",
+      "githubLink": "https://github.com/username/project2",
+      "liveDemo": "https://project2-demo.com"
+    },
+    "viewProject": "Посмотреть проект",
+    "liveDemo": "Демо версия"
+  },
+  "skills": {
+    "title": "Навыки",
+    "subtitle": "Мои технические навыки",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Инструменты",
+    "languages": "Языки программирования",
+    "other": "Другие навыки"
+  },
+  "certificates": {
+    "title": "Сертификаты",
+    "subtitle": "Мои достижения и сертификаты",
+    "certificate1": {
+      "name": "Front-End - Полное руководство",
+      "issuer": "Okurmen",
+      "date": "Март 2025",
+      "description": "Полный курс по React, включающий Hooks, Redux, React Router и многое другое."
+    },
+    "certificate2": {
+      "name": "JavaScript: Продвинутые концепции",
+      "issuer": "Coursera",
+      "date": "Январь 2021",
+      "description": "Углубленное изучение JavaScript, включая асинхронное программирование, замыкания и прототипное наследование."
+    },
+    "certificate3": {
+      "name": "Веб-разработка: Полный курс",
+      "issuer": "freeCodeCamp",
+      "date": "Ноябрь 2020",
+      "description": "Полный курс веб-разработки, охватывающий HTML, CSS, JavaScript, React и Node.js."
+    }
+  },
+  "contact": {
+    "title": "Контакты",
+    "subtitle": "Свяжитесь со мной",
+    "name": "Имя",
+    "email": "Email",
+    "message": "Сообщение",
+    "send": "Отправить",
+    "address": "Адрес",
+    "phone": "Телефон",
+    "emailAddress": "Email адрес",
+    "socialLinks": "Социальные сети",
+    "findMe": "Найти меня в социальных сетях"
+  }
+}
+

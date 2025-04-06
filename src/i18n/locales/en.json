@@ -1,0 +1,108 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "certificates": "Certificates",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hi, my name is",
+    "name": "Aktan",
+    "position": "Frontend Developer",
+    "description": "I build modern and responsive web applications using React and other cutting-edge technologies.",
+    "downloadCV": "Download CV",
+    "contactMe": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Learn more about my experience and skills",
+    "description1": "I am a Frontend Developer with experience in building web applications using modern technologies such as React, Redux, and Tailwind CSS.",
+    "description2": "I strive to create intuitive and responsive user interfaces that provide an excellent user experience.",
+    "description3": "I am constantly learning new technologies and methods to improve my skills and stay up-to-date with the latest trends in web development.",
+    "education": "Education",
+    "university": "University Name",
+    "degree": "Bachelor's Degree in Computer Science",
+    "graduationYear": "2020"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "project1": {
+      "name": "Project 1",
+      "position": "Frontend Developer",
+      "period": "25 March 2025",
+      "description": "Developing and maintaining web applications using React, Redux, and TypeScript. Working in a team using Agile methodology.",
+      "achievements": [
+        "Improved application performance by 30%",
+        "Implemented a new state management system",
+        "Developed a component library for reuse"
+      ],
+      "technologies": "React, Redux, i18Next, Tailwind CSS, React-Router",
+      "githubLink": "https://github.com/username/project1",
+      "liveDemo": "https://project1-demo.com"
+    },
+    "project2": {
+      "name": "Project 2",
+      "position": "Junior Frontend Developer",
+      "period": "4 November 2020",
+      "description": "Developing user interfaces using HTML, CSS, and JavaScript. Working with REST APIs and integrating third-party services.",
+      "achievements": [
+        "Participated in the development of 5 projects",
+        "Optimized CSS code, reducing file sizes by 20%",
+        "Implemented automated component testing"
+      ],
+      "technologies": "HTML, CSS, JavaScript, REST API",
+      "githubLink": "https://github.com/username/project2",
+      "liveDemo": "https://project2-demo.com"
+    },
+    "viewProject": "View Project",
+    "liveDemo": "Live Demo"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "My technical skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools",
+    "languages": "Programming Languages",
+    "other": "Other Skills"
+  },
+  "certificates": {
+    "title": "Certificates",
+    "subtitle": "My achievements and certifications",
+    "certificate1": {
+      "name": "Front-End - The Complete Guide",
+      "issuer": "Okurmen",
+      "date": "March 2025",
+      "description": "Full course on React, including Hooks, Redux, React Router, and more."
+    },
+    "certificate2": {
+      "name": "JavaScript: Advanced Concepts",
+      "issuer": "Coursera",
+      "date": "January 2021",
+      "description": "In-depth study of JavaScript, including asynchronous programming, closures, and prototype inheritance."
+    },
+    "certificate3": {
+      "name": "Web Development: Full Course",
+      "issuer": "freeCodeCamp",
+      "date": "November 2020",
+      "description": "Complete web development course covering HTML, CSS, JavaScript, React, and Node.js."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with me",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "address": "Address",
+    "phone": "Phone",
+    "emailAddress": "Email Address",
+    "socialLinks": "Social Links",
+    "findMe": "Find me on social media"
+  }
+}
+
